@@ -1,4 +1,4 @@
-## **Sabor Brasileiro: Sua Cozinha, Sua Refeição** ️
+## **Sabor Brasileiro: Sua Cozinha, Sua Refeição** ️- Imersão Dev com Google Gemini
 
 ### **O que é esse projeto?**
 
